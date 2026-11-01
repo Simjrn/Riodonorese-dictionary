@@ -116,3 +116,5 @@ friu/cold
 baliente/brave
 fia/daughter
 enfadar/to tire
+piquenu/small
+sin/without
