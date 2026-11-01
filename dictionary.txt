@@ -1,7 +1,6 @@
-buon/good
 dia/day, morning
 un/a (masculine)
-ua/a (femenine)
+una/a (femenine)
 el/the (masculine, singular)#sometimes written as 'al'
 lus/the (masculine, plural)
 la/the (femenine, singular)
@@ -24,21 +23,21 @@ ferramenteiro/car
 equi/here
 mesa/table
 pirdon/excuse me, pardon, sorry
-enfadau/tired (masculine)
-enfadáa/tired (femenine)
-muito/much, very, lots, a lot
+enfadado/tired (masculine)
+enfadada/tired (femenine)
+muito/much, lots, a lot
 trabayo/job, work
 trabayar/to work
 café/coffee
 por fabor/please
 zúcre/sugar
-iêl/he
-iêla/she
+iel/he
+iela/she
 you/I
 tu/you (singular)
 nós/we
-iêlas/they (femenine)
-iêlos/they (masculine, mixed)
+ielas/they (femenine)
+ielos/they (masculine, mixed)
 beber/to drink
 esto/this
 sal/salt
@@ -48,14 +47,14 @@ incuentro/date, meeting
 restaurante/restaurant
 olá, buonas/hi
 cumu/how
-biên/well
+bien/well
 selada/salad
 güei/today
-escatchu/match, game
+escachu/match, game
 importante/important
 xugar/to play
 futebol/football
-tambiên/too, as well
+tambien/too, as well
 unde/where
 americanu/american
 pai/father
@@ -64,21 +63,21 @@ i/and
 amar/to love
 mascota/pet
 dous/two
-tchamar/to call
-tchamau/called (masculine)
-tchamáa/called (femenine)
+chamar/to call
+chamado/called (masculine)
+chamada/called (femenine)
 atá/towards
 rapaça/girl
 caminar/to walk
 cousa/thing
 pan/bread
 para/for
-sanduítche/sandwich
+sanduíche/sandwich
 supermercau/supermarket
 tumate/tomato
-stá biên/OK, alright
-obrigáa/thank you (woman speaking)
-obrigau/thank you (man speaking)
+stá bien/OK, alright
+obrigada/thank you (woman speaking)
+obrigado/thank you (man speaking)
 trés/three
 mançana/apple
 chumu/juice
@@ -90,15 +89,15 @@ dineiru/money
 dal/from the (masculine)#de + al = dal
 al/to the (masculine)#a + el # al. In texts where 'el' is written as 'al', 'al' is written as 'ál'.
 luna/moon
-amél/honey
+amel/honey
 dir/to go
-arioportu/airport
+ariopuerto/airport
 bieto/ticket
 ciudá/city
 faborit/favourite (masculine)
 faborita/favourite (femenine)
 home/man, husband
-moier/wife
+moier/wife, woman
 defícil/difficult
 bós/you (plural)
 cua/with a (femenine)#cun + ua = cua
@@ -106,7 +105,7 @@ pal/for the (masculine)#para + al = pal
 rapaç/boy#sometimes written as rapace
 ber/to see
 benhir/to come
-ruôda/wheel
+ruoda/wheel
 puârta/door
 fuârte/forte
 muârtu/dead
@@ -115,7 +114,6 @@ tiu/uncle
 friu/cold
 baliente/brave
 fia/daughter
-enfadar/to tire
 piquenu/small
 sin/without
 filhu/son
@@ -134,15 +132,15 @@ dar/to give
 hai/there is
 irmau/brother
 padrinhu/stepfather
-me/me#To use objects in Riodonorese, attach them to the end of the verb. For example 'Padrinhu tram-me biên' - 'Step father is treating me well'
-fuôra/outside
+me/me#To use objects in Riodonorese, attach them to the end of the verb. For example 'Gusta-me el pan' - 'The bread pleases me' or put it directly before the verb : 'You te amo' -> 'I love you'.
+fuora/outside
 en riba/on top
 enfadar-se/to tire oneself, to get tired
 outro/other (masculine)
 outra/other (femenine)
 tia/aunt, auntie
 Maio/May
-aquiêl/this
+aquiel/that
 hasta/until
 léngua/language
 qui/which, that (connective)
@@ -164,3 +162,17 @@ lionés/Leonese
 Portugal/Portugal
 ajudar/to help
 salbar/to save
+táxi/taxi
+buenus dias/good morning, good day
+mui/very
+triste/sad
+n'el/in the (masculine)#in + el = n'el
+n'un/in a (masculine)#in + un = n'un
+mala/suitcase
+in cara de/towards, to
+muito pirdon/I am very sorry
+bamos/let's go
+a/to
+te/your (object)
+riodonores/Riodonorese
+amor/love, darling
