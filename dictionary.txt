@@ -46,8 +46,8 @@ más/more
 cun/with
 incuentro/date, meeting
 restaurante/restaurant
-olá/hi
-cumo/how
+olá, buonas/hi
+cumu/how
 biên/well
 selada/salad
 güei/today
@@ -118,3 +118,49 @@ fia/daughter
 enfadar/to tire
 piquenu/small
 sin/without
+filhu/son
+cassa/house, home
+in cassa/at home
+algua cousa/something
+na/on the (femenine)
+cabeça/head
+noute/night
+mau/bad
+tonto/stupid, silly
+cassar cun/to marry#In Riodonorese, you marry *with* someone
+terminar/to finish, to end
+porrada/blow, hit, strike
+dar/to give
+hai/there is
+irmau/brother
+padrinhu/stepfather
+me/me#To use objects in Riodonorese, attach them to the end of the verb. For example 'Padrinhu tram-me biên' - 'Step father is treating me well'
+fuôra/outside
+en riba/on top
+enfadar-se/to tire oneself, to get tired
+outro/other (masculine)
+outra/other (femenine)
+tia/aunt, auntie
+Maio/May
+aquiêl/this
+hasta/until
+léngua/language
+qui/which, that (connective)
+quase/almost
+bebido a/because of
+numero/number
+puobo/people
+ante/used to
+Rihonor/Rio de Onor
+pero/but
+agora/now
+in/in
+comigu/with me
+dicionário/dictionary
+quedar/maintain, stay
+sturianu/Asturian
+mirandés/Mirandese
+lionés/Leonese
+Portugal/Portugal
+ajudar/to help
+salbar/to save
