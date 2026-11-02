@@ -1,12 +1,11 @@
 import streamlit as st
-from gtts import gTTS
 
 st.header(":rainbow[The internet's best way to learn Riodonorese!]")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["Dictionary", 'Text', 'Pronunciation and writing', 'Course', 'Roadmap'])
 
 with tab1:
-  query = st.text_input("Search:")
+  query = st.text_input("", type="search", placeholder="Search dictionary entries", live="0ms")
   counter = 0
   if query:
     st.write(f"**Dictionary entries containing ':blue[{query}]'**:")
