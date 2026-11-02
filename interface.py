@@ -1,4 +1,5 @@
 import streamlit as st
+from cloze_deletions import cloze
 
 st.header(":rainbow[The internet's best way to learn Riodonorese!]")
 
@@ -47,6 +48,8 @@ with tab4:
     with open("course/L1.md","r" ,encoding="utf-8") as md:
       md = md.read()
       st.markdown(md)
+      with st.expander("Practise with fill-the-gap excersises"):
+        cloze("course/cloze_deletions/L1.txt")
   with st.expander("Lesson 2"):
     with open("course/L2.md","r" ,encoding="utf-8") as md:
       md = md.read()
