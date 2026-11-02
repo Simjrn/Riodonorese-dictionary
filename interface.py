@@ -39,6 +39,10 @@ with tab3:
     st.markdown(md)
 
 with tab4:
+  with st.expander("Introduction"):
+    with open("course/intro.md","r" ,encoding="utf-8") as md:
+      md = md.read()
+      st.markdown(md)
   with st.expander("Lesson 1"):
     with open("course/L1.md","r" ,encoding="utf-8") as md:
       md = md.read()
