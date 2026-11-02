@@ -1,19 +1,19 @@
 dia/day, morning
-un/a (masculine)
-una/a (femenine)
-el/the (masculine, singular)#sometimes written as 'al'
-lus/the (masculine, plural)
-la/the (femenine, singular)
-las/the (femenine, plural)
+un/a (m)
+una/a (f)
+el/the (m, sg)#sometimes written as 'al'
+lus/the (m, pl)
+la/the (f, sg)
+las/the (f, pl)
 qué/what
 comer/to eat
 benhir/to come
 mi/my
-tu/your (singular)
+tu/your (sg)
 su/his
 su/her
 sporto/sport
-gustar/to please,to like#To say 'to like' in Riodonorese, you say '(object that you like) pleases (person'. For example 'Gustan-te lus sportos?'
+gustar/to please, to like#To say 'to like' in Riodonorese, you say '(object that you like) pleases (person)'. For example 'Gustan-te lus sportos?'
 chabe/key
 sí/yes
 nó/no
@@ -23,8 +23,8 @@ ferramenteiro/car
 equi/here
 mesa/table
 pirdon/excuse me, pardon, sorry
-enfadado/tired (masculine)
-enfadada/tired (femenine)
+enfadado/tired (m)
+enfadada/tired (f)
 muito/much, lots, a lot
 trabayo/job, work
 trabayar/to work
@@ -34,10 +34,10 @@ zúcre/sugar
 iel/he
 iela/she
 you/I
-tu/you (singular)
+tu/you (sg)
 nós/we
-ielas/they (femenine)
-ielos/they (masculine, mixed)
+ielas/they (f)
+ielos/they (m)#also used with mixed groups
 beber/to drink
 esto/this
 sal/salt
@@ -64,8 +64,8 @@ amar/to love
 mascota/pet
 dous/two
 chamar/to call
-chamado/called (masculine)
-chamada/called (femenine)
+chamado/called (m)
+chamada/called (f)
 atá/towards
 rapaça/girl
 caminar/to walk
@@ -86,29 +86,29 @@ de/of, from
 leite/milk
 ideia/idea
 dineiru/money
-dal/from the (masculine)#de + al = dal
-al/to the (masculine)#a + el # al. In texts where 'el' is written as 'al', 'al' is written as 'ál'.
+dal/from the (m)#de + al = dal
+al/to the (m)#a + el = al. In texts where 'el' is written as 'al', 'al' is written as 'ál'.
 luna/moon
 amel/honey
 dir/to go
 ariopuerto/airport
 bieto/ticket
 ciudá/city
-faborit/favourite (masculine)
-faborita/favourite (femenine)
+faborit/favourite (m)
+faborita/favourite (f)
 home/man, husband
 moier/wife, woman
 defícil/difficult
-bós/you (plural)
-cua/with a (femenine)#cun + ua = cua
-pal/for the (masculine)#para + al = pal
+bós/you (pl)
+cua/with a (f)#cun + ua = cua
+pal/for the (m)#para + al = pal
 rapaç/boy#sometimes written as rapace
 ber/to see
 benhir/to come
 ruoda/wheel
-puârta/door
-fuârte/forte
-muârtu/dead
+puarta/door
+fuarte/forte
+muartu/dead
 riu/river
 tiu/uncle
 friu/cold
@@ -120,7 +120,7 @@ filhu/son
 cassa/house, home
 in cassa/at home
 algua cousa/something
-na/on the (femenine)
+na/on the (f)
 cabeça/head
 noute/night
 mau/bad
@@ -132,12 +132,12 @@ dar/to give
 hai/there is
 irmau/brother
 padrinhu/stepfather
-me/me#To use objects in Riodonorese, attach them to the end of the verb. For example 'Gusta-me el pan' - 'The bread pleases me' or put it directly before the verb : 'You te amo' -> 'I love you'.
+me/me#To use objects in Riodonorese, attach them to the end of the verb. For example 'Gusta-me el pan' -> 'The bread pleases me'. You can also put it directly before the verb : 'You te amo' -> 'I love you'.
 fuora/outside
 en riba/on top
 enfadar-se/to tire oneself, to get tired
-outro/other (masculine)
-outra/other (femenine)
+outro/other (m)
+outra/other (f)
 tia/aunt, auntie
 Maio/May
 aquiel/that
@@ -163,16 +163,59 @@ Portugal/Portugal
 ajudar/to help
 salbar/to save
 táxi/taxi
-buenus dias/good morning, good day
+buenus dias/good morning, good day, hello
 mui/very
 triste/sad
-n'el/in the (masculine)#in + el = n'el
-n'un/in a (masculine)#in + un = n'un
+n'el/in the (m)#in + el = n'el
+n'un/in a (m)#in + un = n'un
 mala/suitcase
 in cara de/towards, to
 muito pirdon/I am very sorry
 bamos/let's go
 a/to
-te/your (object)
+te/you (object)
 riodonores/Riodonorese
 amor/love, darling
+faborit/favorite (m)
+faborita/favorite (f)
+star/to be#Use 'star' when referring to being in places, emotions, or states of being.
+haber/to have#Auxiliary verb, used for things like 'to have to do' or 'to have done' rather than possession. Compare with 'haver' in Portuguese.
+tener/to have#Used only for possession
+cada/every
+mes/month
+u/or
+cincu/five
+seis/six
+ano/year
+marchar/to leave, to pass (when referring to time)
+diel/of him
+mior/better
+man/hand
+matar/to kill
+onte/yesterday
+abajo/below
+amanhar/to prepare
+arriba/above
+aspois/after
+baca/cow
+benecir/to bles
+canada/path
+ingrida/steep
+inton/then
+listu/smart
+machada/axe blow
+pasmado/astonished
+mundu/world
+piema/leg
+puonto/bridge
+poner/to put
+salir/to go out
+solo/on one's own, alone
+xusticia/justice
+xardineiro/gardener
+pelo/by the (m)#por + el = pelo
+por/By, via, through, per#'Por' is used for explaining *why* something happened, the means or method, the price, the frequency, or the path you took for a movement. Look up 'por' meaning Portuguese for a better explanation - they are the same
+pela/by the (f)#por + la = pela
+uns/some (m)
+unas/some (f)
+solu/only, just
