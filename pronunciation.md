@@ -27,6 +27,8 @@ Consonant sounds are mostly similar to English, so I'll run through the differen
 - H is silent
 - R is a rolled r
 - X is a 'sh' sound
+- Lh is a 'ly' sound, like in 'mi*lli*on'
+- Nh is a 'ny' sound like in 'mi*ni*on'
 
 ### Other ways of writing
 
