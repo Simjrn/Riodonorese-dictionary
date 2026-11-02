@@ -2,6 +2,11 @@ import streamlit as st
 
 st.header(":rainbow[The internet's best way to learn Riodonorese!]")
 
+st.set_page_config(
+    page_title="Learn Riodonorese",
+    page_icon="RiodeOnor.png",  # Can be an emoji, image file path, or URL
+)
+
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["Dictionary", 'Text', 'Pronunciation and writing', 'Course', 'Roadmap'])
 
 
