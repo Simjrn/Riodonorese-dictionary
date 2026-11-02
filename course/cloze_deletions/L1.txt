@@ -1,1 +1,13 @@
 Sou ____ Paula~I am called Paula#chamada
+Buenus ____~Good day#dias
+___ Zé?~Are you Zé?#yes
+___ sou chamado Zé~I am not called Zé#nun
+Tu _____ chamado Zé?~Are you called Zé?#yes
+_____, sou chamada Paula~Yes, I am called Paula#Sí
+_____, nun yes Zé~No, you are not Zé#nó
+_____ chamo Zé~I am called Zé#me
+_____ Paula~I am called Paula#chamo-me
+te _____ Zé~I call you Zé#chamo
+me _____ chamas Paula?~Do you call me Paula?
+_____ dias~good day#buenus
+Sou chamada Paula _____ yes chamado Zé~I am called Paula and you are called Zé#y
