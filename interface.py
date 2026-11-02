@@ -43,6 +43,10 @@ with tab4:
     with open("course/L1.md","r" ,encoding="utf-8") as md:
       md = md.read()
       st.markdown(md)
+  with st.expander("Lesson 2"):
+    with open("course/L2.md","r" ,encoding="utf-8") as md:
+      md = md.read()
+      st.markdown(md)
 
 with tab5:
   with open("roadmap.md","r" ,encoding="utf-8") as md:
