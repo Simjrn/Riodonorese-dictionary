@@ -19,7 +19,6 @@ def cloze(filename):
             if submit_button:
                 if answer.lower() == question[index2+1:].lower():
                     st.success("Correct")
-                    st.balloons()
                 else:
                     st.error(f"No, the correct answer was '{question[index2+1]}'") 
         get_answer(question)  

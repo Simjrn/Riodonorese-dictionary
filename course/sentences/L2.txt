@@ -1,0 +1,14 @@
+café, _____ fabor~coffee, please#por
+café cun _____~coffee with sugar#zúcre
+café _____ sal~coffee without salt#sin
+sal _____ zúcre~salt or sugar#u
+café _____ leite, por fabor~coffee with milk, please#cun
+_____, por fabor~milk, please#leite
+por _____~please#fabor
+café cun _____ y leite~coffee with salt and milk#sal
+zúcre, _____~sugar, thank you (male)~obrigado
+_____ y por fabor~thank you (female) and please#obrigada
+_____ stás?~how are you?#cumo
+_____ bien~I am well~stou
+_____, obrigada~well, thank you (female)#bien
+_____ bien?~are you well?#stás

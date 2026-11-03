@@ -1,0 +1,14 @@
+olá/hi
+you/I
+sou/(I) am
+tu/you
+yes/(you) are
+nun/not
+nó/no
+sí/yes
+chamado/called (m)
+chamada/called (f)
+y/and
+chamar/to call
+te/you (object)
+me/me (object)
