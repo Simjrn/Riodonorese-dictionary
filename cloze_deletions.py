@@ -12,10 +12,15 @@ def cloze(filename):
         index2 = question.find("#")
         st.header(question[:index])
         st.write(question[index+1:index2])
-        ans = st.text_input("Enter the missing word:")
-        if ans:
-            if ans.lower() == question[index2+1:].lower():
-                st.success("Correct")
-            else:
-                st.error("Incorrect")
+        @st.fragment
+        def get_answer(question):
+            answer = st.text_input("Input your answer: ")
+            submit_button = st.button(label='Submit')
+            if submit_button:
+                if answer.lower() == question[index2+1:].lower():
+                    st.success("Correct")
+                    st.balloons()
+                else:
+                    st.error(f"No, the correct answer was '{question[index2+1]}'") 
+        get_answer(question)  
         st.button("Next")
