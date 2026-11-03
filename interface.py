@@ -49,7 +49,7 @@ with tab4:
       md = md.read()
       st.markdown(md)
       with st.expander("Practise with fill-the-gap excersises"):
-        cloze("course/cloze_deletions/L1.txt")
+        cloze("course/sentences/L1.txt")
   with st.expander("Lesson 2"):
     with open("course/L2.md","r" ,encoding="utf-8") as md:
       md = md.read()
