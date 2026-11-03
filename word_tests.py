@@ -21,5 +21,3 @@ def word_tests(filename):
                     st.error(f"No, the correct answer was '{question[index2+1]}'") 
         get_answer(question)  
         st.button("Next")
-
-word_test("course/words/L1.txt")
