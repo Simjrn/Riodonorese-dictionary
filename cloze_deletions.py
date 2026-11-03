@@ -1,6 +1,7 @@
 import streamlit as st
 from numpy import random
 
+@st.fragment
 def cloze(filename):
     with open (filename, "r", encoding="utf-8") as f:
         f = f.read()
@@ -17,4 +18,5 @@ def cloze(filename):
                 st.success("Correct")
             else:
                 st.error("Incorrect")
-        st.button("Next")
+        if st.button("Next"):
+            st.rerun()
