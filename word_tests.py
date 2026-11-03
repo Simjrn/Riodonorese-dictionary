@@ -12,8 +12,8 @@ def word_tests(filename):
         st.header(question[index+1:])
         @st.fragment
         def get_answer(question):
-            answer = st.text_input("Input your answer: ", key=question)
-            submit_button = st.button(label='Submit', key=question)
+            answer = st.text_input("Input your answer: ", key=random.randint(100000000))
+            submit_button = st.button(label='Submit', key=random.randint(1000000000000))
             if submit_button:
                 if answer.lower() == question[:index].lower():
                     st.success("Correct")
