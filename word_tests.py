@@ -20,4 +20,4 @@ def word_tests(filename):
                 else:
                     st.error(f"No, the correct answer was '{question[index2+1]}'") 
         get_answer(question)  
-        st.button("Next")
+        st.button("Next", key=random.randint(1000000000000))
