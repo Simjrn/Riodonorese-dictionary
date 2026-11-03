@@ -2,7 +2,7 @@ import streamlit as st
 from numpy import random
 
 @st.fragment
-def word_test(filename):
+def word_tests(filename):
     with open (filename, "r", encoding="utf-8") as f:
         f = f.read()
         int = random.randint(len(f.splitlines()))
