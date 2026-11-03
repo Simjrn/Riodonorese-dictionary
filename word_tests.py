@@ -13,7 +13,7 @@ def word_tests(filename):
         @st.fragment
         def get_answer(question):
             answer = st.text_input("Input your answer: ", key=question)
-            submit_button = st.button(label='Submit')
+            submit_button = st.button(label='Submit', key=question)
             if submit_button:
                 if answer.lower() == question[:index].lower():
                     st.success("Correct")
