@@ -12,7 +12,7 @@ def word_tests(filename):
         st.header(question[index+1:])
         @st.fragment
         def get_answer(question):
-            answer = st.text_input("Input your answer: ")
+            answer = st.text_input("Input your answer: ", key=question)
             submit_button = st.button(label='Submit')
             if submit_button:
                 if answer.lower() == question[:index].lower():
