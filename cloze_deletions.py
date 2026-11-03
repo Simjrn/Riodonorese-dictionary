@@ -18,5 +18,4 @@ def cloze(filename):
                 st.success("Correct")
             else:
                 st.error("Incorrect")
-        if st.button("Next"):
-            st.rerun()
+        st.button("Next"):

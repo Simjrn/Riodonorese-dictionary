@@ -8,6 +8,6 @@ _____, nun yes Zé~No, you are not Zé#nó
 _____ chamo Zé~I am called Zé#me
 _____ Paula~I am called Paula#chamo-me
 te _____ Zé~I call you Zé#chamo
-me _____ chamas Paula?~Do you call me Paula?
+me _____ Paula?~Do you call me Paula?#chamas
 _____ dias~good day#buenus
 Sou chamada Paula _____ yes chamado Zé~I am called Paula and you are called Zé#y
